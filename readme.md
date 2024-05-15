@@ -12,7 +12,6 @@ This project provides a minimal HTML document that displays a "Hello, World!" me
 - [How to Run](#how-to-run)
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## How to Run
 
